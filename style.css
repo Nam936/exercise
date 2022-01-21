@@ -1,0 +1,31 @@
+
+.content{
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    justify-content: center;
+    margin: auto;
+    max-width: 1000px;
+  
+}
+
+ h1{
+    text-align: center;
+    color: crimson;
+}
+
+img{
+
+    margin: 10px;
+    max-width: 200px;
+    min-height: 300px;
+}
+/* /* ul li{
+    display: inline;
+    /* align-items: center; */
+
+
+/* img{
+    margin-left: auto;
+    margin-right: auto;
+} */
